@@ -68,7 +68,6 @@ class QueryAthena:
 
 
 def run_query(query, database):
-    print(config)
     qa = QueryAthena(query=query, database=database)
     dataframe = qa.run_query()
     return dataframe
