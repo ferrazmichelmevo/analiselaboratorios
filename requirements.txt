@@ -1,0 +1,7 @@
+streamlit
+boto3
+pandas
+numpy
+pyarrow
+python-dotenv
+streamlit-aggrid
